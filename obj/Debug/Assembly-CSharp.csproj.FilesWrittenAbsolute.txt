@@ -1,0 +1,17 @@
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/vuwij/Developer/UnityProjects/Keyboard/obj/Debug/Assembly-CSharp.dll
+/Users/vuwij/Developer/UnityProjects/Keyboard/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/UnityEngine.dll
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/UnityEditor.dll
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/Mono.Cecil.dll
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/Unity.DataContract.dll
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/vuwij/Developer/UnityProjects/Keyboard/Temp/bin/Debug/Mono.Cecil.Mdb.dll
